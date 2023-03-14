@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sujingxian
 - 👀 I’m interested in fitness, digital art, coding
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- ❤️ I'm also a UX/UI designer, this is my porfolio link.  www.jingxiansu.com
 - 📫 How to reach me sujingxian758@gmail.com
 
 <!---
