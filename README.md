@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sujingxian
-- 👀 I’m interested in fitness, digital art, coding
-- 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me sujingxian758@gmail.com
 
 <!---
